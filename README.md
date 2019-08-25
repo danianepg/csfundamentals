@@ -1,5 +1,10 @@
 # Notes on Computer Science Fundamentals X Java
 
+## BigO Notation
+- Indicate the performance of the algorithm.
+- How well an algorithm scales as the amount of data increases.
+- Not about speed but scalability.
+
 ## Data Structures
 
 ### LinkedList
@@ -93,6 +98,13 @@
 | Sets | checking if an object is in a collection; avoiding duplicates | direct access; <br> everything else |
 | Binary Search Trees | speed of insertion and deletions; speed of access; maitaining sorted order | some overhead |
 
+## Sorting
+
+### Bubble Sort
+### Selection Sort
+### Merge Sort
+### Quick Sort
+### Radix Sort
 
 
 
