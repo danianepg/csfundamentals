@@ -1,4 +1,4 @@
-# Notes on Computer Science Fundamentals X Java
+# Notes on CS Fundamentals && Java
 
 ## BigO Notation
 - Indicate the performance of the algorithm.
