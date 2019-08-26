@@ -19,7 +19,7 @@
 |  | Arrays | Linked Lists |
 |--|--|--|
 | Direct access | Good. Fixed time O(1) | Poor. Linear time O(n) |
-| Add/Remove | Poor. Linear time O(n) | Good. Fixed time (1) |
+| Add/Remove | Poor. Linear time O(n) | Good. Fixed time O(1) |
 | Search | O(n) linear search; <br> O(log n) binary search | O(n) linear search |
 
 ### Stacks 
