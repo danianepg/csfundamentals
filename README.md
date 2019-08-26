@@ -100,11 +100,40 @@
 
 ## Sorting
 
+### Insertion Sort 
+- O(n²)
+- Set a marker for the first sorted section after the first element.
+- Repeat:
+	- select first unsorted
+	- swap others to the right
+	- advance marker
+- Use for tiny arrays
+	
 ### Bubble Sort
+- Runtime O(n²). Memory O(1)
+- Start at the beginning of the array and swap the first 2 elements if the first is greater than the second. Go to the next pair and so on.  
+
 ### Selection Sort
+- Runtime O(n²). Memory O(1)
+- Find the smallest element using linear scan and move it to the front swapping it. Then find the second smallest and move again. 
+
 ### Merge Sort
+- Runtime O(n log(n)). Memory: depends.
+- Divide & Conquer algorithm.
+- Divide arrays in half, sort each of those halves and then merge them back together. Eventually you´re merging just 2 single elements  array.
+
 ### Quick Sort
+- Runtime O(n log(n)) average or O(n²) worst. Memory O(log(n)).
+- Pick up and element and partition the array. All the elements that are less than the partitioning come before than all elements that are greater than it. 
+
 ### Radix Sort
+- Runtime O(kn)
+- For integers and other data types. Iterate through each digit of the number, grouping numbers by each digit. Then sort each of these grouping by the next digit. Repeat sorting by each subsequent digit.
+
+## Searching
+
+### Binary Search
+Look up for an element in a sorted array by first comparing x to the midpoint. Repeat until the array has  size 0.
 
 
 
