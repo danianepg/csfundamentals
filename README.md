@@ -6,7 +6,7 @@
 - Not about speed but scalability.
 - O(1) perfoms the same no matter how big data are
 - O(n) worst case it will increase to the same size of data
-- O(n^2) for each item needs to go through the array twice. Ex.: bubble sort
+- O(n²) for each item needs to go through the array twice. Ex.: bubble sort
 - O(log n) as long as the amount of data increases, the rest of the amount of data takes less time. Ex.: binary search
 
 ## Data Structures
