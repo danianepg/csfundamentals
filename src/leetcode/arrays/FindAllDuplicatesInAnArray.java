@@ -7,7 +7,7 @@ import java.util.List;
  * https://leetcode.com/problems/find-all-duplicates-in-an-array/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given an array of integers, 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear
  *         once.

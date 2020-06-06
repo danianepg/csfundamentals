@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/problems/multiply-strings/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class MultiplyStrings {

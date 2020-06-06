@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * https://leetcode.com/problems/longest-word-in-dictionary/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class LongestWordDictionary {

@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class LevelOrderTraversal {
@@ -80,7 +80,7 @@ public class LevelOrderTraversal {
 
   public static void main(final String[] args) throws FileNotFoundException {
     final File file = new File(
-        "C:\\Users\\z003xfbr\\Downloads\\tree-level-order-traversal-testcases\\input\\input00.txt");
+        "C:\\Users\\danianepg\\Downloads\\tree-level-order-traversal-testcases\\input\\input00.txt");
     final Scanner scan = new Scanner(file);
     int t = scan.nextInt();
     Node root = null;

@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/problems/repeated-string-match/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class RepeatedStringMatch {

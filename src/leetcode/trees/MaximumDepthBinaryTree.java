@@ -10,7 +10,7 @@ import leetcode.util.Util;
  * https://leetcode.com/problems/maximum-depth-of-binary-tree/
  * Easy
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a binary tree, find its maximum depth.
  *

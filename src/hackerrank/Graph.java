@@ -1,4 +1,4 @@
-package csfundamentals.hackerrank.bfs;
+package hackerrank;
 
 import java.io.File;
 import java.io.FileNotFoundException;

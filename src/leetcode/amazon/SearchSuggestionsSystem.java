@@ -41,7 +41,7 @@ import java.util.List;
  * Input: products = ["havana"], searchWord = "tatiana"
  * Output: [[],[],[],[],[],[],[]]
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class SearchSuggestionsSystem {

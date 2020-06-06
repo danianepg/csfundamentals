@@ -4,7 +4,7 @@ package leetcode.math;
  * https://leetcode.com/problems/reverse-integer/
  * Easy
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a 32-bit signed integer, reverse digits of an integer.
  *

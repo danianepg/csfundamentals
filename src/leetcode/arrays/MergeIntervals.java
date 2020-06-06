@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode.com/problems/merge-intervals/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a collection of intervals, merge all overlapping intervals.
  *

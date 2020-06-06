@@ -1,4 +1,4 @@
-package csfundamentals.crackingthecodinginterview;
+package crackingthecodinginterview;
 
 import java.time.Duration;
 import java.time.Instant;
@@ -68,7 +68,7 @@ public class Exercise18_5 {
 			listB.stream().forEach(elem -> {
 				merged.put(elem, "B");
 			});
-			
+
 			System.out.println(merged);
 
 			Integer posWord1 = -1;
@@ -79,21 +79,21 @@ public class Exercise18_5 {
 			for (Integer key : keys) {
 
 				String curList = merged.get(key);
-				
-				if(curList.equals("A")) {
+
+				if (curList.equals("A")) {
 					posWord1 = key;
 					int distance = Math.abs(posWord1 - posWord2);
 					if (posWord1 >= 0 && min > distance) {
 						min = distance;
-					}	
+					}
 				} else {
 					posWord2 = key;
 					int distance = Math.abs(posWord1 - posWord2);
 					if (posWord2 >= 0 && min > distance) {
 						min = distance;
-					}					
+					}
 				}
-				
+
 			}
 
 			return min;
@@ -121,20 +121,22 @@ public class Exercise18_5 {
 
 	public static void main(String[] args) {
 
-		String[] words = { "dog", "cat", "egg", "role", "a", "bird", "dog", "crew", "dog", "cat", "egg", "cat", "egg", "car",
-				"pen", "apple", "cable", "phone", "erases", "glass", "water", "rubber", "duck", "bird", "dog", "crew", "bird", "role" };
+		String[] words = { "dog", "cat", "egg", "role", "a", "bird", "dog", "crew", "dog", "cat", "egg", "cat", "egg",
+				"car", "pen", "apple", "cable", "phone", "erases", "glass", "water", "rubber", "duck", "bird", "dog",
+				"crew", "bird", "role" };
 		// String[] words = { "dog", "cat", "role", "crew", "cat", "role", "dog" };
-		String word1 = "dog";
-		String word2 = "role";
+		// String word1 = "dog";
+		// String word2 = "role";
 
 		Exercise18_5 e = new Exercise18_5();
 
-		int distance =0;
+		int distance = 0;
 		Instant start = Instant.now();
-//		for(int i=0; i<words.length-1; i++) {
-//			distance = e.shortest(words, words[i], words[i+1]);
-//			System.out.println("Shortest distance between " + words[i] + " and " + words[i+1] + " = " + distance);
-//		}
+		// for(int i=0; i<words.length-1; i++) {
+		// distance = e.shortest(words, words[i], words[i+1]);
+		// System.out.println("Shortest distance between " + words[i] + " and " +
+		// words[i+1] + " = " + distance);
+		// }
 		Instant end = Instant.now();
 		long duration = Duration.between(start, end).toMillis();
 
@@ -144,11 +146,12 @@ public class Exercise18_5 {
 		HashMap<String, List<Integer>> wordsHash = e.mountHashMap(words);
 		distance = e.shortestHash(wordsHash, "role", "bird");
 		System.out.println("Shortest distance between role and bird = " + distance);
-		
-//		for(int i=0; i<words.length-1; i++) {
-//			distance = e.shortestHash(wordsHash, words[i], words[i+1]);
-//			System.out.println("Shortest distance between " + words[i] + " and " + words[i+1] + " = " + distance);
-//		}
+
+		// for(int i=0; i<words.length-1; i++) {
+		// distance = e.shortestHash(wordsHash, words[i], words[i+1]);
+		// System.out.println("Shortest distance between " + words[i] + " and " +
+		// words[i+1] + " = " + distance);
+		// }
 		end = Instant.now();
 		duration = Duration.between(start, end).toMillis();
 

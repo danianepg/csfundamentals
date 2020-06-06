@@ -12,7 +12,7 @@ import java.util.Stack;
 /**
  * https://www.hackerrank.com/challenges/balanced-brackets
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class BalancedBrackets {
@@ -58,7 +58,7 @@ public class BalancedBrackets {
 
   public static void main(final String[] args) throws IOException {
 
-    final File file = new File("C:\\Users\\z003xfbr\\Downloads\\balanced-brackets-testcases\\input\\input1.txt");
+    final File file = new File("C:\\Users\\danianepg\\Downloads\\balanced-brackets-testcases\\input\\input1.txt");
     final Scanner scanner = new Scanner(file);
 
     final int t = scanner.nextInt();

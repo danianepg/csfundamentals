@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/problems/palindrome-partitioning-ii/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class PalindromePartitioningII {

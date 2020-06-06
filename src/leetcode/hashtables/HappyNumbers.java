@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * https://leetcode.com/problems/happy-number/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Write an algorithm to determine if a number is "happy".
  *

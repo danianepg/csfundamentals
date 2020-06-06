@@ -20,7 +20,7 @@ import java.util.stream.Collectors;
  *
  * https://leetcode.com/discuss/interview-question/542597/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class TopKFrequentlyMentionedKeywords {

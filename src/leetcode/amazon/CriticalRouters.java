@@ -24,7 +24,7 @@ import java.util.Set;
  *
  * https://leetcode.com/discuss/interview-question/436073/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class CriticalRouters {

@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/discuss/interview-question/396769/google-oa-2019-maximum-time
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class MaximumTime {

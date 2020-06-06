@@ -14,7 +14,7 @@ package leetcode.arrays;
  * Follow up:
  * If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log n).
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class MinimumSizeSubarraySum {

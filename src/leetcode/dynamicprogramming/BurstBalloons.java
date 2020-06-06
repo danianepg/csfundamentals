@@ -4,7 +4,7 @@ package leetcode.dynamicprogramming;
  * https://leetcode.com/problems/burst-balloons/
  * Hard
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given n balloons, indexed from 0 to n-1. Each balloon is painted with a number on it represented by array
  *         nums. You are asked to burst all the balloons. If the you burst balloon i you will get nums[left] * nums[i] *

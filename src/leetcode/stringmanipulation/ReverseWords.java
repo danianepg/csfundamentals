@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/problems/reverse-words-in-a-string/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given an input string, reverse the string word by word.
  * 

@@ -3,7 +3,7 @@ package leetcode.linkedlist;
 /**
  * https://leetcode.com/problems/add-two-numbers/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class AddTwoNumbers {

@@ -3,7 +3,7 @@ package leetcode.bitwise;
 /**
  * https://leetcode.com/problems/bitwise-and-of-numbers-range/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of all numbers in this range,
  *         inclusive.

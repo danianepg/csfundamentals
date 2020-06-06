@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
  * Medium
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a n x n matrix where each of the rows and columns are sorted in ascending order, find the kth smallest
  *         element in the matrix.

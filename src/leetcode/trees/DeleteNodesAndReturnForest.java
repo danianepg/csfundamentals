@@ -11,7 +11,7 @@ import leetcode.util.TreeNode;
  * https://leetcode.com/problems/delete-nodes-and-return-forest
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given the root of a binary tree, each node in the tree has a distinct value.
  *

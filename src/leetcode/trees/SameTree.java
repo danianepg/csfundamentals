@@ -6,7 +6,7 @@ import leetcode.util.TreeNode;
  * https://leetcode.com/problems/same-tree/
  * Easy
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given two binary trees, write a function to check if they are the same or not.
  *

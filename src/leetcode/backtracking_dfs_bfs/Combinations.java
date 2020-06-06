@@ -7,7 +7,7 @@ import java.util.List;
  * https://leetcode.com/problems/combinations/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given two integers n and k, return all possible combinations of k numbers out of 1 ... n.
  *

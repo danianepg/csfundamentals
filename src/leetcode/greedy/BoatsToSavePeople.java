@@ -28,7 +28,7 @@ import java.util.Arrays;
  * Output: 4
  * Explanation: 4 boats (3), (3), (4), (5)
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class BoatsToSavePeople {

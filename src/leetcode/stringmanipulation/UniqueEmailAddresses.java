@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * https://leetcode.com/problems/unique-email-addresses/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  *         Every email consists of a local name and a domain name, separated by the @ sign.
  * 

@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode.com/problems/combination-sum-ii/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a collection of candidate numbers (candidates) and a target number (target), find all unique
  *         combinations in candidates where the candidate numbers sums to target.

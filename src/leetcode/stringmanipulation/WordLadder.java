@@ -10,7 +10,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/word-ladder/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class WordLadder {

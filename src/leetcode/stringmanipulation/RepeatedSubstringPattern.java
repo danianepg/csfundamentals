@@ -3,7 +3,7 @@ package leetcode.stringmanipulation;
 /**
  * https://leetcode.com/problems/long-pressed-name/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class RepeatedSubstringPattern {

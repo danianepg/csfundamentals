@@ -11,7 +11,7 @@ import java.util.Queue;
  * https://leetcode.com/problems/course-schedule-ii/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         There are a total of n courses you have to take, labeled from 0 to n-1.
  *

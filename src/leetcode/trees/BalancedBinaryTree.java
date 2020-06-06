@@ -7,7 +7,7 @@ import leetcode.util.Util;
  * https://leetcode.com/problems/balanced-binary-tree/
  * Easy
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a binary tree, determine if it is height-balanced.
  *

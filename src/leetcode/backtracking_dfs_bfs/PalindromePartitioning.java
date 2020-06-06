@@ -7,7 +7,7 @@ import java.util.List;
  * https://leetcode.com/problems/palindrome-partitioning/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a string s, partition s such that every substring of the partition is a palindrome.
  *

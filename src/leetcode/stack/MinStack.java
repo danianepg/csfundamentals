@@ -3,7 +3,7 @@ package leetcode.stack;
 /**
  * https://leetcode.com/problems/min-stack/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
  *

@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class HeightBinaryTree {
@@ -90,7 +90,7 @@ public class HeightBinaryTree {
   public static void main(final String[] args) throws FileNotFoundException {
 
     final File file = new File(
-        "C:\\Users\\z003xfbr\\Downloads\\tree-height-of-a-binary-tree-testcases\\input\\input04.txt");
+        "C:\\Users\\danianepg\\Downloads\\tree-height-of-a-binary-tree-testcases\\input\\input04.txt");
 
     final Scanner scan = new Scanner(file);
     int t = scan.nextInt();

@@ -7,7 +7,7 @@ import java.util.Map;
  * https://leetcode.com/problems/fruit-into-baskets/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         In a row of trees, the i-th tree produces fruit with type tree[i].
  *

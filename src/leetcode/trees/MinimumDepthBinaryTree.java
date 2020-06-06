@@ -10,7 +10,7 @@ import leetcode.util.Util;
  * https://leetcode.com/problems/minimum-depth-of-binary-tree/
  * Easy - Bosta e confuso
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a binary tree, find its minimum depth.
  *

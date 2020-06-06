@@ -1,4 +1,4 @@
-package csfundamentals.leetcode;
+package leetcode.arrays;
 
 public class TrappingRainWaterPointers {
 

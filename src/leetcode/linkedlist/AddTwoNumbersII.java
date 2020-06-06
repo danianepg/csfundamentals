@@ -7,7 +7,7 @@ import leetcode.util.ListNode;
 /**
  * https://leetcode.com/problems/add-two-numbers-ii/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class AddTwoNumbersII {

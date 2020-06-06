@@ -6,7 +6,7 @@ import leetcode.util.TreeNode;
  * https://leetcode.com/problems/distribute-coins-in-binary-tree/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given the root of a binary tree with N nodes, each node in the tree has node.val coins, and there are N coins
  *         total.

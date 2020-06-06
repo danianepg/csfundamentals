@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/group-anagrams/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given an array of strings, group anagrams together.
  *

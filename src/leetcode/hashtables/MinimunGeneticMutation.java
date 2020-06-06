@@ -9,7 +9,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/minimum-genetic-mutation/
  * 
- * @author z003xfbr
+ * @author danianepg
  *
  *         A gene string can be represented by an 8-character long string, with choices from "A", "C", "G", "T".
  * 

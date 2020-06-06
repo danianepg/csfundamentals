@@ -10,7 +10,7 @@ import leetcode.util.Util;
  * https://leetcode.com/problems/kth-smallest-element-in-a-bst/
  * Medium
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
  *

@@ -9,7 +9,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/minimum-genetic-mutation/
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 public class MinimumGeneticMutation {

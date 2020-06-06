@@ -5,7 +5,7 @@ package hackerrank.amazon;
  *
  * Complexity O(V^2)
  *
- * @author z003xfbr
+ * @author danianepg
  *
  */
 

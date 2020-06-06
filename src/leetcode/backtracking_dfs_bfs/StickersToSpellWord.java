@@ -7,7 +7,7 @@ import java.util.Map;
  * https://leetcode.com/problems/stickers-to-spell-word/
  * Hard
  *
- * @author z003xfbr
+ * @author danianepg
  *
  *         We are given N different types of stickers. Each sticker has a lowercase English word on it.
  *
